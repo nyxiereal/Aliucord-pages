@@ -1,6 +1,5 @@
 Unofficial [Aliucord](https://github.com/Aliucord) docs :3
 
-<a id="thisisatest"></a>
 # How to install Aliucord
 [Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
 
