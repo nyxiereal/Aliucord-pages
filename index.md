@@ -1,4 +1,4 @@
-Unofficial [Aliucord](https://github.com/Aliucord) docs :3 (made it so i dont have to use pastebin anymore)
+Unofficial [Aliucord](https://github.com/Aliucord) docs :3 (made it so i dont have to use pastebin anymore lol)
 
 [More Aliucord docs](https://docs.meowery.eu/aliucord/!Index.html)
 
