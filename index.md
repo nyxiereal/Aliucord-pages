@@ -11,7 +11,7 @@ Unofficial [Aliucord](https://github.com/Aliucord) docs :3
 
 # How to set a custom background image/gif
 - Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin
-- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (you can use any file manager that lets you copy file paths, this is just a recommendation since not every file manager lets you do that or does it wrong)
+- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the image/gif file
 - Click the 3 dots next to it & press `Copy path`
 - Go to Themer settings → your theme → `Background` & paste it
@@ -23,7 +23,7 @@ Don't forget to enable transparency (chat, chat & settings). If you want full tr
 
 # How to set a custom font
 - Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin
-- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (you can use any file manager that lets you copy file paths, this is just a recommendation since not every file manager lets you do that or does it wrong)
+- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the font file
 - Click the 3 dots next to it & press `Copy path`
 - Go to Themer settings → your theme → `Fonts` & paste it where the asterisk is
@@ -34,7 +34,7 @@ Final result should be `file://storage/emulated/0/Example/Example.ttf`
 Don't forget to enable the `Enable Custom Fonts` option in Themer settings
 
 # How to use StartupSound/NoticeSound/CustomSounds plugins
-- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (you can use any file manager that lets you copy file paths, this is just a recommendation since not every file manager lets you do that or does it wrong)
+- Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the sound file
 - Click the 3 dots next to it & press `Copy Path`
 - Go to the plugin settings & paste it
