@@ -11,4 +11,5 @@ Unofficial [Aliucord](https://aliucord.com) docs :3 (made it so i dont have to u
 - [Plugin forks info](https://yutaplug.github.io/Aliucord/forks)
 - [Voice Chat situation](https://yutaplug.github.io/Aliucord/voicechat)
 - [UserPFP & UserBG guide](https://yutaplug.github.io/Aliucord/userpfpbg)
-- ["Failed to initialize Aliucord" workaround](https://yutaplug.github.io/Aliucord/initialize/)
+- ["Failed to initialize Aliucord" workaround](https://yutaplug.github.io/Aliucord/initialize)
+- [Plugin searching guide](https://yutaplug.github.io/Aliucord/findplugins)
