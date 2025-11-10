@@ -1,5 +1,5 @@
 # Plugin forks info
-these forks can be installed [here](https://discord.com/channels/811255666990907402/847566769258233926/1402218345570504806)
+The forks can be installed [here](https://discord.com/channels/811255666990907402/847566769258233926/1402218345570504806)
 
 - AudioPlayer fork by Halkion fixes crashes and some bugs with audio files
  
