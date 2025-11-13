@@ -1,7 +1,7 @@
 # Themer plugin guide
 First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin.
 
-[How to install Themes](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-themes)
+[How to install themes](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-themes)
 
 ## How to create my own theme
 [Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev)
