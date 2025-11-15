@@ -20,7 +20,7 @@
 ## How to install themes
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
 - Make sure to be on Aliucord app
-- Install Themer plugin ([how?](/Aliucord/findplugins))
+- Install Themer plugin ([how?](/#how-to-install-plugins))
 - Go to #themes channel and hold any message (NOT THE LINK)
 - Install option will appear
 
