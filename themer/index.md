@@ -1,5 +1,5 @@
 # Themer plugin guide
-First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([how to find it?](findplugins)).
+First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([how to find it?](findplugins))
 
 [How to install themes?](/beginner/#how-to-install-themes)
 
@@ -9,7 +9,7 @@ First of all, you need to Install [Themer](https://github.com/Vendicated/Aliucor
 [Theme maker](https://aliucord.com/theme-maker)
 
 ## How to set a custom background
-First of all, you need to enable transparency in Themer settings (chat, chat & settings). If you want full transparency, you need to use the template found below.
+First of all, you need to enable transparency in Themer settings (chat, chat & settings). If you want full transparency, you need to use the template found below
 
 GitHub:
 - Create a GitHub account 
@@ -28,7 +28,7 @@ Locally:
 
 Final result should be `file://storage/emulated/0/Example/Example.jpg`
 
-**Note:** GitLab, Imgbb & Imgur also work.
+**Note:** GitLab, Imgbb & Imgur also work
 
 ## How to set a custom font
 First of all, you need to enable the `Enable Custom Fonts` option in Themer settings.
@@ -50,7 +50,7 @@ Locally:
 
 Final result should be `file://storage/emulated/0/Example/Example.ttf`
 
-**Note:** GitLab also works.
+**Note:** GitLab also works
 
 ## Why does my background image not work
 - You didn't enable transparency
