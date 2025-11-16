@@ -33,6 +33,4 @@ Required for [#unmaintained-plugins](https://discord.com/channels/81125566699090
 - Now, with a file manager ([this one is recommended](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=es)) move the downloaded `.zip` to the `Aliucord/plugins` folder
 - Restart Aliucord
 
-[VIDEO GUIDE](https://streamable.com/a8pjvb)
-
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fbeginner&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
