@@ -8,28 +8,24 @@
 ## How to install plugins
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
 - Make sure to be on Aliucord app
-- Go to #plugins-list or #new-plugins channels and hold any message (NOT THE LINK)
+- Go to [#plugins-list](https://discord.com/channels/811255666990907402/811275162715553823) or [#new-plugins](https://discord.com/channels/811255666990907402/845784407846813696) channels and hold any message (NOT THE LINK)
 - PluginDownloader/Install option will appear
 
 **Note:** Most of the plugins need an app restart so they can properly work.
-
-[VIDEO GUIDE](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
 [How to find plugins?](/Aliucord/findplugins)
 
 ## How to install themes
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
 - Make sure to be on Aliucord app
-- Install Themer plugin ([how?](/Aliucord/beginner/#how-to-install-plugins))
-- Go to #themes channel and hold any message (NOT THE LINK)
+- Install Themer plugin
+- Go to [#themes](https://discord.com/channels/811255666990907402/824357609778708580) channel and hold any message (NOT THE LINK)
 - Install option will appear
-
-[VIDEO GUIDE](https://aliucord.com/files/tut/InstallThemes.mp4)
 
 [Additional info about Themer plugin](/Aliucord/themer)
 
 ## How to install a plugin manually
-Required for #unmaintained-plugins channel
+Required for [#unmaintained-plugins](https://discord.com/channels/811255666990907402/861935147272110100) channel
 - Go to any plugin repository ([like this one](https://github.com/Juby210/Aliucord-plugins))
 - Click [this](https://ibb.co/hxkqYPW7) and select `builds`
 - Click the `Name.zip` of the plugin you want
