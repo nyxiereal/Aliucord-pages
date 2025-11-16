@@ -15,5 +15,6 @@ Unofficial [Aliucord](https://aliucord.com) docs :3 (made it so i dont have to u
 - [Plugin searching guide](/Aliucord/findplugins)
 - [Link opening fix](/Aliucord/links)
 - [How to get New UI](/Aliucord/newui)
+- [Voice Chat workaround](https://yutaplug.github.io/Aliucord/vcfix)
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
