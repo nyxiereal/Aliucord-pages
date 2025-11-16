@@ -15,4 +15,4 @@ Installation: [Click this](https://github.com/mantikafasi/AliucordPlugins/raw/bu
 
 Usage: Open Aliucord settings, you will find a `Open Plugin Repo` button at the bottom (between App Settings & Aliucord sections, it's a bit buggy and sometimes moves its own position), now just simply click it and try searching for the plugin you want.
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Ffindplugins&label=&icon=eye&color=%23000&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Ffindplugins&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
