@@ -6,7 +6,7 @@ On Aliucord server, open the searchbar (🔍︎ icon at the topbar right corner)
 
 Alternatively, if you still can't find it, you can search `PluginNameHere.zip` to (probably) find a message containing the raw link of the desired plugin. If it's sent by a trusted member, you can install it by holding the message (NOT THE LINK) (trusted members are people with support-helper or plugin-developer roles). In [#plugin-development](https://discord.com/channels/811255666990907402/811261478875299840) channel, every plugin can be installed by holding the message no matter the user.
 
-**Note:** Installing plugins by holding a message in [#unmaintained-plugins](https://discord.com/channels/811255666990907402/861935147272110100) channel is not allowed, you will need to read the [#unmaintained-plugins installation guide](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-a-plugin-manually-required-for-unmaintained-plugins-channel).
+**Note:** Installing plugins by holding a message in [#unmaintained-plugins](https://discord.com/channels/811255666990907402/861935147272110100) channel is not allowed, you will need to read the [manual plugin installation guide](/Aliucord/beginner/#how-to-install-a-plugin-manually).
 
 ## Built-in Plugin Browser
 
