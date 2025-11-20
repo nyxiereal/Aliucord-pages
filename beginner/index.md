@@ -26,7 +26,7 @@
 ## How to install a plugin manually
 Required for [#unmaintained-plugins](https://discord.com/channels/811255666990907402/861935147272110100) channel
 - Go to any plugin repository ([like this one](https://github.com/Juby210/Aliucord-plugins))
-- Click [this](https://ibb.co/hxkqYPW7) and select `builds`
+- Click [this](https://github.com/user-attachments/assets/e18b3b27-bcf4-4f7c-ba23-b07fa934877a) and select `builds`
 - Click the `Name.zip` of the plugin you want
 - Click `View raw`
 - Now, with a file manager ([this one is recommended](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=es)) move the downloaded `.zip` to the `Aliucord/plugins` folder
