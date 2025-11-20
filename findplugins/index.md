@@ -8,11 +8,13 @@ on Aliucord Discord server, open the searchbar (🔍︎ icon at the topbar right
 Alternatively, if you still can't find it, you can search `PluginNameHere.zip` to (probably) find a message containing the raw link of the desired plugin. If its sent by a trusted member, you can install it by holding the message (NOT THE LINK) (trusted members are people with support-helper or plugin-developer roles). In [#plugin-development](https://discord.com/channels/811255666990907402/811261478875299840) channel, every plugin can be installed by holding the message no matter the user.
 
 **Note:** Installing plugins by holding a message in [#unmaintained-plugins](https://discord.com/channels/811255666990907402/861935147272110100) channel is not allowed, you will need to read the [#unmaintained-plugins installation guide](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-a-plugin-manually-required-for-unmaintained-plugins-channel).
-## PluginRepo
-There's also a [PluginRepo](https://github.com/mantikafasi/AliucordPlugins/raw/builds/PluginRepo.zip) plugin which you can use to easily find common/famous plugins through your Aliucord settings (basically a built-in plugins page like Vencord's one), but note that it's not updated nor synced with the plugin channels found on the server, and viceversa (some plugins are only in PluginRepo).
 
-Installation: [Click this](https://github.com/mantikafasi/AliucordPlugins/raw/builds/PluginRepo.zip), it will download `PluginRepo.zip`, now move it to the `Aliucord/plugins` folder using a file manager & restart Aliucord.
+## Built-in Plugin Browser
 
-Usage: Open Aliucord settings, you will find a `Open Plugin Repo` button at the bottom (between App Settings & Aliucord sections, it's a bit buggy and sometimes moves its own position), now just simply click it and try searching for the plugin you want.
+There's also a PluginWeb plugin which you can use to easily find & install plugins through your Aliucord settings.
+
+Installation: Assuming you already joined Aliucord server, open [this message](https://discord.com/channels/811255666990907402/811261478875299840/1441081295642955807) and hold it in order to install it.
+
+Usage: Open Aliucord settings, you will find a `Open Plugin Web` button at the bottom (`ALIUCORD` section), now just simply click it and try searching for the plugin you want!
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Ffindplugins&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
