@@ -1,8 +1,4 @@
-Unofficial [Aliucord](https://aliucord.com) docs :3 (made it so i dont have to use pastebin anymore lol)
-
-[Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
-
-[More Aliucord docs](https://docs.meowery.eu/aliucord/!Index.html)
+Unofficial Aliucord docs
 
 ## Sections
 - [Beginner guide](/Aliucord/beginner)
