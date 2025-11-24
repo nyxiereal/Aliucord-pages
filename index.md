@@ -10,5 +10,6 @@ Unofficial Aliucord docs
 - [New UI](/Aliucord/newui)
 - [Backports](/Aliucord/backports)
 - [Changelog](/Aliucord/changelog)
+- [Token guide](/Aliucord/token)
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
