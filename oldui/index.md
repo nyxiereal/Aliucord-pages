@@ -1,4 +1,4 @@
-# Why does Aliucord use an old Discord version?
+# Reasons of why Aliucord uses an old Discord version
 
 - The new Discord mobile client uses the React Native framework, which is not as performant as Kotlin. React Native is a port from iOS while Kotlin is Android native.
 
