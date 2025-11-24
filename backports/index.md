@@ -7,7 +7,7 @@
 > 
 > Click the plugin names, it will download the plugin `.zip`, now just move it to the `Aliucord/plugins` folder using a file manager & restart Aliucord if it was open.
 
-# Plugins
+## Plugins
 |Feature|Plugin Name|
 |-|-|
 |Voice messages|[VoiceMessages](https://github.com/mantikafasi/AliucordPlugins/raw/builds/VoiceMessages.zip)|
@@ -38,7 +38,7 @@
 |DMTabsV2|[DMTabs](https://github.com/OmegaSunkey/awesomeplugins/raw/builds/DMTabs.zip)|
 |Remove attachments individually|[AttachmentRemover](https://github.com/RazerTexz/My-plugins/raw/builds/AttachmentRemover.zip)|
 
-# Built-in to Aliucord
+## Built-in to Aliucord
 - Viewing forwarded messages
 - Upload size (new 10mb limit for non-nitro users)
 - Display names
@@ -48,7 +48,7 @@
 - New profile badges (quests, developer, etc.)
 - Avatar decorations
 
-# Aliucord from storage
+## Aliucord from storage
 
 **Notes**
 - This method is used for core features that are not merged yet, this means that they are still in an Alpha state, use at your own risk.
@@ -62,7 +62,7 @@
 - Enable [Developer Mode](https://github.com/user-attachments/assets/ee6a45bd-08a5-4bf8-af39-6d03b9d969a4) & [Aliucord from storage](https://github.com/user-attachments/assets/37f9f074-741e-46e1-8162-f753f4af8b30)
 - Restart Aliucord
 
-Video: https://github.com/user-attachments/assets/6860f787-cae9-4560-9d29-5efa1f05af78
+Watch the [video instructions](https://github.com/user-attachments/assets/6860f787-cae9-4560-9d29-5efa1f05af78) in case you don't understand something
 
 **Backports that use this method**
 - [Guild tags, nameplates & display name styles (All in One)](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
