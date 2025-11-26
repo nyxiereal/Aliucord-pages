@@ -1,5 +1,8 @@
 # Changelog
 
+# 2.?.? (unknown version number yet)
+- Fix avatar decorations alignment in DMs list
+
 ## 2.6.0 (current version)
 - Temporarily fix Voice Chat until March
 - Implement avatar decorations
