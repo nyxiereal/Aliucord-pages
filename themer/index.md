@@ -11,7 +11,7 @@ First of all, you need to enable transparency in Themer settings (chat, chat & s
 GitHub:
 - Create a GitHub account 
 - Create a repo (make sure its public)
-- Click add file and upload the image/gif
+- Click `Add file` and upload the image/gif
 - Once uploaded, click its name
 - Hold the image and copy the address
 - Paste the link into Themer
@@ -33,7 +33,7 @@ First of all, you need to enable the `Enable Custom Fonts` option in Themer sett
 GitHub:
 - Create a GitHub account 
 - Create a repo (make sure its public)
-- Click add file and upload the font
+- Click `Add file` and upload the font
 - Once uploaded, click its name
 - Hold `View raw` and copy the address
 - Paste the link(s) into Themer
