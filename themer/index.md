@@ -25,7 +25,7 @@ Locally:
 
 Final result should be `file://storage/emulated/0/Example/Example.jpg`
 
-**Note:** GitLab, Imgbb & Imgur also work
+**Note:** GitLab, Imgbb & Imgur also work.
 
 ## How to set a custom font
 First of all, you need to enable the `Enable Custom Fonts` option in Themer settings.
@@ -38,6 +38,8 @@ GitHub:
 - Hold `View raw` and copy the address
 - Paste the link(s) into Themer
 
+**GitHub note:** If the font you want is already uploaded in some repo, you can just copy the raw link, no need to make your own repo.
+
 Locally:
 - Install [this file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the font file
@@ -47,7 +49,7 @@ Locally:
 
 Final result should be `file://storage/emulated/0/Example/Example.ttf`
 
-**Note:** GitLab also works
+**Note:** GitLab also works.
 
 ## Why does my background image not work
 - You didn't enable transparency
