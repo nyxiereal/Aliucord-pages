@@ -14,6 +14,6 @@ There's also a PluginWeb plugin which you can use to easily find & install plugi
 
 Installation: Click [this](https://github.com/RazerTexz/My-plugins/raw/builds/PluginWeb.zip), now move the downloaded .zip to the `Aliucord/plugins` folder & restart Aliucord if it was open.
 
-Usage: Open settings, you will find a `Open Plugin Web` button at the bottom (`ALIUCORD` section), now just simply click it and try searching for the plugin you want!
+Usage: Open settings, under the Aliucord section you will find `Open Plugin Web` button, now just simply click it and try searching for the plugin you want!
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Ffindplugins&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
