@@ -13,6 +13,7 @@
 **Note:** Most of the plugins need an app restart so they can properly work.
 
 > How to find plugins?
+
 Type `L!plugins PluginName` in #support & #plugin-support channels.
 
 ## How to install themes
