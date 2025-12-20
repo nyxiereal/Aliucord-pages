@@ -3,9 +3,7 @@
 - 💣: Broken or partially broken
 - 🚧: Still in development or beta
 
-> How do i install the plugins from here?
-> 
-> Click the plugin names, it will download the plugin `.zip`, now just move it to the `Aliucord/plugins` folder using a file manager & restart Aliucord if it was open.
+**Note:** To install the plugins from here you need to click the plugin name, it will download the plugin .zip, now just move it to the `Aliucord/plugins` folder using a file manager & restart Aliucord in case it was open.
 
 ## Plugins
 |Feature|Plugin Name|
@@ -54,10 +52,10 @@
 
 **Notes**
 - This method is used for core features that are not merged yet, this means that they are still in an Alpha state, use at your own risk.
-- You can't use multiple `.zip`'s at once, you'll need to decide which features you prefer.
+- You can't use multiple .zip's at once, you'll need to decide which features you prefer.
 
 **How to use Aliucord from storage**
-- Download the `.zip` file from the links below
+- Download the .zip file from the links below
 - Extract it and find `Aliucord.zip` inside it
 - Move `Aliucord.zip` to your `Aliucord` folder
 - Open Aliucord settings
