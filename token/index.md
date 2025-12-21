@@ -2,6 +2,9 @@
 
 - Install [Helium Android](https://github.com/jqssun/android-helium-browser/releases/download/v143.0.7499.109/143.0.7499.109-1765934736.apk) browser with extension support
 - Install [Tampermonkey](https://tampermonkey.net) (enable desktop mode when on chrome store first)
+- Go to chrome://extensions and enable `Developer mode`
+- Go to Tampermonkey details and enable `Allow User Scripts`
+- Restart Helium
 - Install [this script](https://greasyfork.org/en/scripts/437442-discord-get-your-token)
 - Login to [Discord web](https://discord.com/login) and your token will appear
 
