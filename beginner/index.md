@@ -21,6 +21,8 @@
 - Go to [#themes](https://discord.com/channels/811255666990907402/824357609778708580) channel and hold any message (NOT THE LINK)
 - Install option will appear
 
+**Note:** After installing the theme, go to Themer plugin settings to enable it.
+
 [Additional info about Themer plugin](/Aliucord/themer)
 
 ## How to install a plugin manually
