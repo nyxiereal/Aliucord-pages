@@ -1,6 +1,6 @@
 Unofficial Aliucord docs
 
-## Sections
+# Sections
 - [Beginner guide](/Aliucord/beginner)
 - [Themer guide](/Aliucord/themer)
 - [Sounds guide](/Aliucord/sounds)
